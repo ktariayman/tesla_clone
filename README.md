@@ -1,3 +1,6 @@
+Tesla Clone for educational purpose using Reactjs and firebase. 
+
+
 [LIVE DEMO](https://tesla-clone-6773d.web.app/)
 ##
 
